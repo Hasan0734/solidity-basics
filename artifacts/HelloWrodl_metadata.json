@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"HelloWorld.sol": "HelloWrodl"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"HelloWorld.sol": {
+			"keccak256": "0xd89fc7dc88bef9e4bb20b1239ee2e443161f20960d381760acd685153d93b406",
+			"urls": [
+				"bzz-raw://7b8ed76a37af3519352ae3c03f962db1bd9ef8ee2ed985c13959f8fabc2f9116",
+				"dweb:/ipfs/QmVv6eq8RzJQGQ5WS5mz9DjkC3hekYxgkmiwcsfLnisFgj"
+			]
+		}
+	},
+	"version": 1
+}
