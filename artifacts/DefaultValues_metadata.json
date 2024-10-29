@@ -99,11 +99,11 @@
 	},
 	"sources": {
 		"DefaultValues.sol": {
-			"keccak256": "0x66810eb06579f27251417fd6c83d1554597a45ec1daf1fa14a799aa1e2945516",
+			"keccak256": "0x8e1d302a8e5d1ac9bbf6a015e905035b1f7839439d86c27859cce654a50c264f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://652a41e0b0a6b383f2d1030383ee3b8ddb054c3f585485dc29bf988779a7228a",
-				"dweb:/ipfs/QmYLF8SwYtGFRQ6XJYQ8fhjvDi1MkT3BP82Sh1sZc1z1Dj"
+				"bzz-raw://0b7525bd8458af292d145c2f3285e315251835902fccb41450d1b1bf343094ec",
+				"dweb:/ipfs/QmQJcCveuVyGDQsM6k4yWY7L7JgeA4HWA44XEgix8abVuM"
 			]
 		}
 	},
