@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ParentFunctions.sol": "Name"
+			"contracts/ParentFunctions.sol": "e"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ParentFunctions.sol": {
-			"keccak256": "0x8f53f7243705ed2716b575518de20ba1db2e186b6250cd2eadcf8ec7dbedc79a",
+			"keccak256": "0x34c923304283c4e1351e1611a14ab529f4a9adb167e83c7972dbd2c91251d46d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://75ca0fc258b5be82e06a7bd733f28bb8e2a9d9821c6f8018f5dfe0059bf73c53",
-				"dweb:/ipfs/QmauUzS1eyM9sMBBRw6jg2zFMtRZfCw4eMxn4QcQtcmPAs"
+				"bzz-raw://d54adeb10afb7764bc38772c35c7716327b2e9e5796aa2b073fa35336362ab18",
+				"dweb:/ipfs/QmSk6HqsCedFDitkvcrf3MHejwwVtiFip9tvWBuymyMPmA"
 			]
 		}
 	},

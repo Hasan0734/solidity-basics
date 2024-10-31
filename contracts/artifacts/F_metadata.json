@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ParentFunctions.sol": "H"
+			"contracts/ParentFunctions.sol": "F"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
