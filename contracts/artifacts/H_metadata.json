@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Proxy.sol": "Name"
+			"contracts/Proxy.sol": "H"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Proxy.sol": {
-			"keccak256": "0xac9dc3ae3bc7a7c61e2a27e91b72a692e6118e73669c3abdfb6779511c846cf5",
+			"keccak256": "0xac7e70942686275da9a17517be7c36d5ade3618bb6276ea554ec0c6007554ea3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5e6b6bf11f9622c06d7788636121602bbc29d27bffce6e6207e0b1772753d44a",
-				"dweb:/ipfs/QmXxWMRd4ECjPiQQ4beaqgMjxL8cgMxXkzTGHb5t26XDjC"
+				"bzz-raw://60ec7bc2314acd45dea641cc1730d198494cd711d73fc511bee68ff7fb92cf77",
+				"dweb:/ipfs/QmTMHgNBhCHBiFYZpznkco3rssbBzEUfeFMsGuXVKSGhVR"
 			]
 		}
 	},
