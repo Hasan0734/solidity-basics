@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/EtherWallet.sol": "Name"
+			"contracts/EtherWallet.sol": "EtherW"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/EtherWallet.sol": {
-			"keccak256": "0x0655f3ba73e402d39edb12f984fed4c2d9a6da66404cf877203e43eecf1100c5",
+			"keccak256": "0x647fd2951fc1edd714e9abc3528a844298e93ae1206147bba5ccb7413163c2bd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://726d49cfe79ff4cfe4e2cd923f471d9d8558bbc67a9ed0836ec7c532ecf5baaa",
-				"dweb:/ipfs/QmZ3sKbHLhnWbzui6z5oaSjb3oTmciqb7UQcscHJSV14Wn"
+				"bzz-raw://0327cf196638eae7d8a979c1a3a59a80fd19718eb358cbceb29f207e72bea877",
+				"dweb:/ipfs/QmeemXbCaK7csKiNwEw3cfJ56ANwiwcT8LCgk15mkYqGBd"
 			]
 		}
 	},
