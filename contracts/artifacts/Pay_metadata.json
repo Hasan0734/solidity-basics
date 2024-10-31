@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Payable.sol": "Name"
+			"contracts/Payable.sol": "Pay"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Payable.sol": {
-			"keccak256": "0x0655f3ba73e402d39edb12f984fed4c2d9a6da66404cf877203e43eecf1100c5",
+			"keccak256": "0x442eef643c8c77941bb9869f6e522edc09c3fa201943c8d429c8213bfd8c9874",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://726d49cfe79ff4cfe4e2cd923f471d9d8558bbc67a9ed0836ec7c532ecf5baaa",
-				"dweb:/ipfs/QmZ3sKbHLhnWbzui6z5oaSjb3oTmciqb7UQcscHJSV14Wn"
+				"bzz-raw://a9203cacee07a28f860694cd752b904e825096309b7a387ea7ba64769aaee98e",
+				"dweb:/ipfs/QmVYpWR6Jbd4vMahqoqQdbvSJvLy9JQ8aqV5wh87h2ooxb"
 			]
 		}
 	},
