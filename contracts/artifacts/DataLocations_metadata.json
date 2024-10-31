@@ -1,0 +1,94 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "y",
+						"type": "uint256[]"
+					},
+					{
+						"internalType": "string",
+						"name": "s",
+						"type": "string"
+					}
+				],
+				"name": "examples",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "myStructs",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "foo",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "text",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DataLocations.sol": "DataLocations"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DataLocations.sol": {
+			"keccak256": "0x2144110caa5c0c172f7593e482fd78a04d94fbc33cde8946431d84b53d777394",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a3a877755dfdb9488964470c0dad35334dc381a9a91d8bad2bffb6f8f7de0d8a",
+				"dweb:/ipfs/QmSRJgVtdrFP3iWwXUztyE9TZJJxQWHXF5X6Ci4HwJhqYk"
+			]
+		}
+	},
+	"version": 1
+}
