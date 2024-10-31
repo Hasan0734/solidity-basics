@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SendEth.sol": "Name"
+			"contracts/SendEth.sol": "EthRec"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/SendEth.sol": {
-			"keccak256": "0x466d9ffa9dd16260b81b528821803be855f82bbb16c8b121ecc8ba0a09748c54",
+			"keccak256": "0x8af40ca6c3480f976819a492d8c76853c87b51ad26fd059b045b04fde8cace9d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d250be944e53c37db1af6023021869a8a896edb3d430b344f60791692e40deb9",
-				"dweb:/ipfs/QmdppyJBsqfhMicUtw27Ld3oQcCmQfHPXYRVzSuff7LaLb"
+				"bzz-raw://b60a64bb06b32facf8f05ad8cff645b9acc4a3d4cec61b33fe5e9abcfe0d397a",
+				"dweb:/ipfs/QmQSo9GGPEd3J2PUXBGLa5b6gbL4fLcinJphAWRJZXvnd3"
 			]
 		}
 	},
