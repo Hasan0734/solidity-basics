@@ -20,13 +20,6 @@
 			},
 			{
 				"inputs": [],
-				"name": "dec",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "inc",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -46,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Counter.sol": "Counter"
+			"contracts/Interface.sol": "ICounter"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -60,12 +53,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Counter.sol": {
-			"keccak256": "0x43a2f1190f284f155ac91245f6974a50a3df4702486e3c65a90f0fa9eed84259",
+		"contracts/Interface.sol": {
+			"keccak256": "0x30143d2bba0ac0aee099aded6281d6572740b36475ec8e65a49679220abff10f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bc7a614e3e96ece74eec31a904190d5462069d3d4deecab00ff5a40fcb721081",
-				"dweb:/ipfs/QmXTgQ2DfnES7M3izh5nt84WkrqLiiVzPzDftgiVKYvk2B"
+				"bzz-raw://471f53acec6bd96883b478866c19c7561c65e43bcc9f4ba1adf8741c6b2f73b0",
+				"dweb:/ipfs/QmWUxVWTCj3LQxkJYES8EM2Siune2FTwWjLg3QztvpCSXN"
 			]
 		}
 	},
