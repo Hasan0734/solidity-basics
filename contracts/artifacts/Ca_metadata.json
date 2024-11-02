@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Call.sol": "Name"
+			"contracts/Call.sol": "Ca"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Call.sol": {
-			"keccak256": "0xcd82765b70f5a61be2976c337cd6592cc07fc4001bc197c740180bd8afa6c9d4",
+			"keccak256": "0x13415312c97b42b64b7b0928418c6b2331c93156d021a8cffe772a2f3ea7b20f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://efa7f9018ef0b035cdfecdae1ea1aa4bc9bba89d10aaca7738f6a26802b6e0a9",
-				"dweb:/ipfs/QmcNanNDgxs6JUpAKhhVpNx9epHkV8Rbw72N8DjpEkbcfR"
+				"bzz-raw://444a933820404c43d61ffe76c0fdc668ca811e770cb7121eda0cef46ec191fbf",
+				"dweb:/ipfs/Qmden1JJTxf2sYEZ5EfRHo4h7HDRTJA2pf3xXBxCKhACuX"
 			]
 		}
 	},
