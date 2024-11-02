@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/New.sol": "AccountFacory"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/New.sol": {
+			"keccak256": "0xff8f4be2350683d9043947da017762973434da651c635d86f7449eeb08058ef3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6dc7c28d29da2092a1f3b919bf4e69043dd0947a55303e826bde092b01ad9e6a",
+				"dweb:/ipfs/QmQnDyqGXvJLGDDtbmiyKG4oa9Skpw7bDGgvTGq5eHN7uq"
+			]
+		}
+	},
+	"version": 1
+}
