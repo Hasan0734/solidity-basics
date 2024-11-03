@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DeleteContract.sol": "Name"
+			"contracts/DeleteContract.sol": "He"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/DeleteContract.sol": {
-			"keccak256": "0xacd5f739155961e3121d231bdbf96e00d4684076801bc3a5197ff360933ea704",
+			"keccak256": "0x7d385705d530f74ca19419ab290f7e9e65beb97a77c9792c1c3a17260df219e1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9c7d0c51e6c7b46823b53a2c150b452834243e35aa3e23a390890d4b358bed99",
-				"dweb:/ipfs/QmaXcDAAjrUcbFXcoqBT7jTJqRN1oKK6HehB2XivVBx4BY"
+				"bzz-raw://cb0a3d8f3a95129a64bf32087e429bb05a6aa499a570653342fd13c1c91ab011",
+				"dweb:/ipfs/QmQGfB9AbBS8xDgM5pNjj4QjpMU8sWEbtJaKkopy8AWa7Q"
 			]
 		}
 	},

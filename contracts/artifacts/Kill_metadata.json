@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "kill",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testCall",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DeleteContract.sol": "Kill"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DeleteContract.sol": {
+			"keccak256": "0xfd058dabbe6ddcfb02e112e1a63212151b2b3380fc9894087b6f823792bd5175",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f10273dbb0c96bdee2e1e2f4d633e78cac5025b748066b35fb1e9be3ff552cc5",
+				"dweb:/ipfs/QmWW3kB8uyWwZgxxCN4vmFsCnDVsUdhfUoQaLhJm1bqo8M"
+			]
+		}
+	},
+	"version": 1
+}
