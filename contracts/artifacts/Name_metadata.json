@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DeleteContract.sol": "Name"
+			"contracts/PiggyBank.sol": "Name"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/DeleteContract.sol": {
-			"keccak256": "0xacd5f739155961e3121d231bdbf96e00d4684076801bc3a5197ff360933ea704",
+		"contracts/PiggyBank.sol": {
+			"keccak256": "0x0655f3ba73e402d39edb12f984fed4c2d9a6da66404cf877203e43eecf1100c5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9c7d0c51e6c7b46823b53a2c150b452834243e35aa3e23a390890d4b358bed99",
-				"dweb:/ipfs/QmaXcDAAjrUcbFXcoqBT7jTJqRN1oKK6HehB2XivVBx4BY"
+				"bzz-raw://726d49cfe79ff4cfe4e2cd923f471d9d8558bbc67a9ed0836ec7c532ecf5baaa",
+				"dweb:/ipfs/QmZ3sKbHLhnWbzui6z5oaSjb3oTmciqb7UQcscHJSV14Wn"
 			]
 		}
 	},
