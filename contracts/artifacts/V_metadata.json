@@ -4,50 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_name",
-						"type": "string"
-					},
-					{
-						"internalType": "string",
-						"name": "_text",
-						"type": "string"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "name",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "text",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -61,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ParentConstructor.sol": "V"
+			"contracts/Signature.sol": "V"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -75,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ParentConstructor.sol": {
-			"keccak256": "0xf45abfd9ae23c03f72ef2603a0683ef483222a2004f23bed22b600caa5494c8c",
+		"contracts/Signature.sol": {
+			"keccak256": "0xf7f8d61141eb324273d7c5e97f900699399a95632523cea9561a1614457fffdc",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://23fab1e14e741a989d09b92e759695e2512095e4731f13ab6108e39517de5da0",
-				"dweb:/ipfs/QmWuPRtpBUM4RM6H1LVKN8Canrg3o5v9TAdgnBD1awt73j"
+				"bzz-raw://e564727438cffae0968ae0208b0b4cbe875d9161f9d1ad3b6aa59720c828ec87",
+				"dweb:/ipfs/QmV3y4S7QmvKMkhAPXM7n4oEGDzK9aUR2d4ddgCTb8Bt29"
 			]
 		}
 	},

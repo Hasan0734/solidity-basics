@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Signature.sol": "Name"
+			"contracts/Signature.sol": "VerifySginatrue"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Signature.sol": {
-			"keccak256": "0xfbf653e0885d567eb97ac5074535b16f782e2098826554f7e6cf9273421717d1",
+			"keccak256": "0xc396d4df461817882333eb5c4d7497b4a1c830a9c5a03bbbb78e30f2084df1cf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8740cc39cd2508751397e2ab1baf78ab64132a78f7d8674aad0284c720499273",
-				"dweb:/ipfs/QmfDtBtpJfB31nQHJqBpfBrBHPCmmdhUnEsMSZ9VNEvWaV"
+				"bzz-raw://bccfe3cafb54dfe46799506c424162f45b57aaf025536549c5dea12ac818c5f1",
+				"dweb:/ipfs/QmNrFSWmXzHJ9eDKTLCoso3yqdVUWHMR5MzVqM9KBQQynF"
 			]
 		}
 	},
