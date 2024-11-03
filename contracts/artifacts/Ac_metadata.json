@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/AccessControl.sol": "A"
+			"contracts/AccessControl.sol": "Ac"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/AccessControl.sol": {
-			"keccak256": "0x80edbe6b1f866eb8ed122acc6a73f2013cdddc42ae2b9404313071884d0ce9ee",
+			"keccak256": "0xf8cc40c42f1f16df447d9be6fbf2c7935dcc9e61570e6b0ca9dda1e050585f72",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://99886c844bf0d52020177ad2a13567b47155db54c017d6cb84a7e9591f7a3cdd",
-				"dweb:/ipfs/QmSRVZJ8khya84j3JBQfy4peCxaTLvujkerEUFWY7qbrng"
+				"bzz-raw://d81f10afcb2e0e76d7a4cd6aaabc5efb7b2eb5a43dff55a6cb2ec019f7228f86",
+				"dweb:/ipfs/QmSiPmQKqFk1o1TKm2bEgQn32khKM4sjnQEUiA56LiiTGG"
 			]
 		}
 	},
