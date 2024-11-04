@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DutchAuction.sol": "Name"
+			"contracts/DutchAuction.sol": "IERCE"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/DutchAuction.sol": {
-			"keccak256": "0xacbac2ae0b6362a6573d8f42abc02cfdd8fe076d42a58fc1cb2abc856d5c92b1",
+			"keccak256": "0x4198ffc979929a283f5ead019d27ebb9d39425d9f67b17ba2d6671cf704b2b04",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a9444f7f266b6fdf40f7e40876b9b85a35e0895b4542a3dc7fe825027a7d63e6",
-				"dweb:/ipfs/QmantXb6sooUYJy3jbbZMdqCfCbprcba5FMCdScUwTCevA"
+				"bzz-raw://9c1eb6642080af6d214ff3952e2bb67bfd3877781feff7530053a04beafe1d1b",
+				"dweb:/ipfs/QmdQ8i5EEG8A1nMzubpRi9aqE9s5segySmwTCHSJPwGyPr"
 			]
 		}
 	},

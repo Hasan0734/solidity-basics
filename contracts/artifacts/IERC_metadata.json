@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DutchAuction.sol": "Name"
+			"contracts/DutchAuction.sol": "IERC"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/DutchAuction.sol": {
-			"keccak256": "0xacbac2ae0b6362a6573d8f42abc02cfdd8fe076d42a58fc1cb2abc856d5c92b1",
+			"keccak256": "0x7353d1e4dd81077d81770b9fb3a6cf578d803c3f3787ec9b601b9ab0215dd743",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a9444f7f266b6fdf40f7e40876b9b85a35e0895b4542a3dc7fe825027a7d63e6",
-				"dweb:/ipfs/QmantXb6sooUYJy3jbbZMdqCfCbprcba5FMCdScUwTCevA"
+				"bzz-raw://ee53d5a8c810a908e00e7bd5ecf1dfa7e4116bb6f55930e740909784a79381e8",
+				"dweb:/ipfs/QmfWr9zNH5zqsQoa7E6HYwTfy27Ki5BGx2NEhsuUfz8iYF"
 			]
 		}
 	},
